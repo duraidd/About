@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About</string>
+    <string name="about">About Us</string>
+    <string name="about_us_content">
+
+        <![CDATA[<b>Netcom Computers Private Limited</b> was started by a group of young and dynamic entrepreneurial IT Professionals with a vision to make a mark in Information Technology related sectors in 2002. The Company is working on diverse fields in IT industry. We have a strong foothold in a variety of fields like Computer Education, Computer Aided Learning, Soft Skill Training, Software Solutions, Web Solutions, 3D and 2D animations.<br /> <br /> <br />
+
+NETCOM works on the philosophy of empowering the schools to offer value added courses to their students. The quality and delivery content will enhance the standard and competitiveness of students. It would provide students a better future and confident personality. They would have all-round learning performance in schools. They would come to know, how to operate a computer, how to browse etc. In future, they won’t have to start learning computer from the elementary level and can proceed on learning packages related to the profession they select.<br /> <br /> <br />
+
+Netcom provides job-oriented computer courses to the students of Arts & Science and engineering colleges also, we provide separate courses for different departments. We also provide language lab for colleges. Especially when availing computer education, students can select the course that would benefit the students most in the career they have chosen. We have implemented this Computer Education project in 40 private schools in south Tamilnadu from 2003 to 2005.]]>
+    </string>
+    <string name="call_us"><![CDATA[<big><b>Call Us</b></big><br /><small> Our sales team is happy to help you</small>]]></string>
+</resources>
